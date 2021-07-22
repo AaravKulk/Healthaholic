@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wdth,wght@100,100;100,800;75,900&display=swap');
+body{
+    background-color: #47262C;
+    text-align: center;
+    color: orange;
+    font-family: 'Tourney', cursive;
+}
+
+#descreption{
+    font-size: 30px;
+}
